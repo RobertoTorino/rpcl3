@@ -1,0 +1,13 @@
+--------| -------------------------- | --------------- |
+| Value | Meaning                    | Suggested Label |
+| 4     | Idle                       | Idle            |
+| 6     | Below Normal (base)        | Below Normal    |
+| 8     | Normal (base)              | Normal          |
+| 13    | Above Normal (base)        | Above Normal    |
+| 24    | Also Normal variant        | Normal          |
+| 32    | Normal (priority class)    | Normal          |
+| 64    | Idle (priority class)      | Idle            |
+| 128   | High                       | High            |
+| 256   | Realtime                   | Realtime        |
+| 16384 | Below Normal (Windows API) | Below Normal    |
+| 32768 | Above Normal (Windows API) | Above Normal    |

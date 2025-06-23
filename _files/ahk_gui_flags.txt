@@ -1,0 +1,10 @@
+x10 y317 — position in the GUI
+w180 h30 — width and height
+cFFCC66 — text color in hex (yellow-ish)
++Center — centers the text on the button
++0x200 — extended style (WS_EX_CLIENTEDGE, adds a 3D border, usually optional)
+Border — adds a border
+BackgroundTrans — makes the background transparent
+
+
+FFmpeg command: ffmpeg\ffmpeg.exe  -f gdigrab -offset_x 769 -offset_y 431 -video_size 362x137 -framerate 60 -i title="RPCS3" -f dshow -i audio="CABLE Output (VB-Audio Virtual Cable)" -vf scale=1920x1080 -c:v libx264 -preset ultrafast -crf 18 -c:a aac "C:\repos\RPCS3_Launchers\_build\rpcl3_captures\rpcs3_video_2025-06-11_02-34-11.mp4"

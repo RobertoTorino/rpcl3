@@ -1,0 +1,1 @@
+Ahk2Exe.exe /in TTT2-Launcher.ahk /out TTT2-Launcher.exe /icon TTT2.ico /ver version.ver

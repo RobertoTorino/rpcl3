@@ -1,0 +1,9 @@
+[VERSION]
+CompanyName=@game_play267
+FileDescription=Process Control Launcher for RPCS3
+FileVersion=1.0.0.%DATETIME%
+InternalName=RPCS3 Priority Control Launcher
+LegalCopyright=© 2025 Philip
+OriginalFilename=RPCL.exe
+ProductName=RPCS3 Launcher
+ProductVersion=1.0.0

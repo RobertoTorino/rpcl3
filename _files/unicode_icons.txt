@@ -1,0 +1,17 @@
+❓  U+2753 - Black Question Mark Ornament
+🔍  U+1F50D - Left-Pointing Magnifying Glass
+ℹ️  U+2139 - Information Source
+🆘  U+1F198 - Squared SOS
+📖  U+1F4D6 - Open Book
+💡  U+1F4A1 - Light Bulb
+
+⏮️ (U+23EE) Previous track
+⏯️ (U+23EF) Play/Pause
+⏭️ (U+23ED) Next track
+⏹️ (U+23F9) Stop
+🔊 (U+1F50A) Volume
+🔁 (U+1F501) Repeat
+
+Gui, Add, Text, vBtnPrev gPrevTrack Center, ⏮️
+Gui, Add, Text, vBtnPlayPause gPlayPause Center, ⏯️
+Gui, Add, Text, vBtnNext gNextTrack Center, ⏭️

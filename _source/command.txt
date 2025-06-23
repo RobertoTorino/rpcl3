@@ -1,0 +1,2 @@
+# command to embed sound file
+ResourceHacker.exe -open MyScript.exe -save MyScript_Patched.exe -action addoverwrite -res add_sound.rc -log log.txt

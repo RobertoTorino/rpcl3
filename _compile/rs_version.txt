@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "CompanyName", "@game_play267"
+		VALUE "FileDescription", "TTT2 Launcher"
+		VALUE "FileVersion", "1.1.37.02"
+		VALUE "InternalName", "TTT2Launcher"
+		VALUE "OriginalFilename", "TTT2-Launcher.exe"
+		VALUE "ProductName", "TTT2 Launcher"
+		VALUE "ProductVersion", "1.0.0.0"
+		VALUE "LegalCopyright", "\xA9 2025 Philip"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+

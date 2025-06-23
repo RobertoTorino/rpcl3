@@ -1,0 +1,8 @@
+Tray tip
+TrayTip, Title, Text, Seconds, Options
+
+0 = No icon
+1 = Info icon
+2 = Warning icon
+3 = Error icon
+16 = No Sound
